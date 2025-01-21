@@ -1,11 +1,5 @@
-# 🚀 Shahrear Hossain Shawon 
-
-
 https://github.com/user-attachments/assets/c51a0189-748c-4f0e-aa16-9f7ecf8a0ffb
-
-
-
-
+# 🚀 Shahrear Hossain Shawon 
 ## 🌟 About Me  
 Hi there! I'm **Shahrear Hossain Shawon**, a passionate developer, innovator, and educator. My expertise spans multiple domains, including:  
 - Cross-platform development frameworks  
@@ -29,21 +23,6 @@ I have made **150+ contributions** across various repositories, focusing on:
 - **Linux Kernel Contributions**: Exploring ways to make the Linux kernel even more versatile for developers and users alike.  
 - **Pylight-IDE**: A lightweight and beginner-friendly Python IDE designed to simplify coding for all levels.  
 - **MathPower Software**: A powerful math-focused tool aimed at revolutionizing learning and problem-solving.  
-
-## 📚 Open-Source Tutorials  
-- **100-Day PySide6 Tutorial Series**: A comprehensive guide covering all PySide6 modules.  
-- **Qt Creator Series**: Step-by-step tutorials for Qt 6.7.8, from `.ui` files to advanced QML and C++.  
-- **OpenGL Learning Path**: From beginner-level 3D rendering to building complex animation systems.  
-
-## 🎥 YouTube Channel  
-Check out my YouTube channel: [**Algo Science Academy**](https://youtube.com/@algoscienceacademy?feature=shared).  
-I create in-depth tutorials and guides on various topics, including programming, frameworks, and advanced software development techniques.  
-
-## 🌈 Fun Fact  
-I believe in transforming complex ideas into accessible knowledge, empowering developers and learners worldwide.  
-
-Let's collaborate and build the future, one line of code at a time!
-
 # Some OF The Software  That Algo Science Academy Made
 ## IDE 
 ![pic_1](https://github.com/user-attachments/assets/72e592eb-d20b-46fe-a5e6-c24e7cf62ca6)
@@ -77,4 +56,17 @@ Let's collaborate and build the future, one line of code at a time!
 ![Custom-form](https://github.com/user-attachments/assets/37c03c0a-abd2-41f6-af5f-07bffd28b645)
 ![dashboard](https://github.com/user-attachments/assets/cb4578a3-4697-4358-85c7-009f233ab862)
 ![biz_pic1](https://github.com/user-attachments/assets/4a81fdbf-1473-4585-8a91-e9ef46e9d2f8)
+## 📚 Open-Source Tutorials  
+- **100-Day PySide6 Tutorial Series**: A comprehensive guide covering all PySide6 modules.  
+- **Qt Creator Series**: Step-by-step tutorials for Qt 6.7.8, from `.ui` files to advanced QML and C++.  
+- **OpenGL Learning Path**: From beginner-level 3D rendering to building complex animation systems.  
+
+## 🎥 YouTube Channel  
+Check out my YouTube channel: [**Algo Science Academy**](https://youtube.com/@algoscienceacademy?feature=shared).  
+I create in-depth tutorials and guides on various topics, including programming, frameworks, and advanced software development techniques.  
+
+## 🌈 Fun Fact  
+I believe in transforming complex ideas into accessible knowledge, empowering developers and learners worldwide.  
+
+Let's collaborate and build the future, one line of code at a time!
 
