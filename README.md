@@ -70,3 +70,5 @@ I believe in transforming complex ideas into accessible knowledge, empowering de
 
 Let's collaborate and build the future, one line of code at a time!
 
+![](https://komarev.com/ghpvc/?username=algoscienceacademy&color=green)
+
