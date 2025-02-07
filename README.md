@@ -60,8 +60,8 @@ I have made **150+ contributions** across various repositories, focusing on:
 ## MatLab
 ![lab_pic_1](https://github.com/user-attachments/assets/4a4e0a58-38b5-4250-918a-72eee5b798f5)
 ![lab_pic_2](https://github.com/user-attachments/assets/db059ba4-c224-4294-bc2f-bcef90ee904a)
+![image](https://github.com/user-attachments/assets/cff494e7-c793-4ccd-8241-7c16fb65be82)
 ![code_pic_1](https://github.com/user-attachments/assets/6db8ba36-5c71-48de-b95c-a6eb638d62ff)
-![lab_pic_2](https://github.com/user-attachments/assets/d89a40c2-d8e0-4e2b-9628-c38f5b6378be)
 
 ## 📚 Open-Source Tutorials  
 - **100-Day PySide6 Tutorial Series**: A comprehensive guide covering all PySide6 modules.  
