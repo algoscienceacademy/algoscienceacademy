@@ -56,6 +56,13 @@ I have made **150+ contributions** across various repositories, focusing on:
 ![Custom-form](https://github.com/user-attachments/assets/37c03c0a-abd2-41f6-af5f-07bffd28b645)
 ![dashboard](https://github.com/user-attachments/assets/cb4578a3-4697-4358-85c7-009f233ab862)
 ![biz_pic1](https://github.com/user-attachments/assets/4a81fdbf-1473-4585-8a91-e9ef46e9d2f8)
+
+## MatLab
+![lab_pic_1](https://github.com/user-attachments/assets/4a4e0a58-38b5-4250-918a-72eee5b798f5)
+![lab_pic_2](https://github.com/user-attachments/assets/db059ba4-c224-4294-bc2f-bcef90ee904a)
+![code_pic_1](https://github.com/user-attachments/assets/6db8ba36-5c71-48de-b95c-a6eb638d62ff)
+![lab_pic_2](https://github.com/user-attachments/assets/d89a40c2-d8e0-4e2b-9628-c38f5b6378be)
+
 ## 📚 Open-Source Tutorials  
 - **100-Day PySide6 Tutorial Series**: A comprehensive guide covering all PySide6 modules.  
 - **Qt Creator Series**: Step-by-step tutorials for Qt 6.7.8, from `.ui` files to advanced QML and C++.  
